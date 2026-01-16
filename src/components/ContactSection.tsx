@@ -65,7 +65,7 @@ const ContactSection = () => {
               </a>
 
               <a
-                href="https://github.com"
+                href="https://github.com/Fekyy"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 p-4 bg-secondary rounded-xl hover:bg-muted transition-colors group"

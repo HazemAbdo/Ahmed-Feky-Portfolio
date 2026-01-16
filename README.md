@@ -43,7 +43,7 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 ### Initial Setup
 
 1. **Update the base path** in `vite.config.ts`:
-   - If your repository name is `ahmed-s-digital-hub-main`, the base path is already set correctly
+   - If your repository name is `Ahmed-Feky-Portfolio`, the base path is already set correctly
    - If your repository has a different name, update the `base` property in `vite.config.ts`:
      ```ts
      base: process.env.GITHUB_PAGES === "true" ? "/your-repo-name/" : "/",
@@ -66,7 +66,7 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
    - The GitHub Actions workflow will automatically build and deploy your site
    - You can monitor the progress in the **Actions** tab of your repository
    - Once complete, your site will be available at:
-     `https://your-username.github.io/ahmed-s-digital-hub-main/`
+     `https://your-username.github.io/Ahmed-Feky-Portfolio/`
 
 ### Manual Deployment (Alternative)
 

@@ -89,7 +89,7 @@ const HeroSection = () => {
               <Linkedin size={20} />
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/Fekyy"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-secondary rounded-full text-muted-foreground hover:text-primary hover:bg-muted transition-all duration-300"
